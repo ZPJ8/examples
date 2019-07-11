@@ -56,7 +56,7 @@ SUBDIRS += script \
     uitools \
     virtualkeyboard \
     vulkan \
-    wayland \
+#    wayland \
     webchannel \
     webengine \
     webenginewidgets \
